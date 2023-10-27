@@ -1,3 +1,3 @@
 # NayePankh
-website Preview of nayepankh.com.
-website Deployment link- https://shaankeshri.github.io/NayePankh/
+Website Preview of nayepankh.com.
+Website Deployment link- https://shaankeshri.github.io/NayePankh/
